@@ -1,38 +1,52 @@
-# 👋 Hi there, I'm Dilip Kumar
+# Dilip Kumar's Portfolio
 
-## 🚀 Professional Experience
-- **Software Engineer** at XYZ Corp (2021 - Present)
-- **Junior Developer** at ABC Inc. (2019 - 2021)
+🎉 **Current Role: Senior Software Developer** at [Programming.com](https://www.programming.com)  *(IAM & .NET 8, July 2025-Present)*
 
-## 🛠️ Skills
-- **Languages:** Python, JavaScript, Java
-- **Frameworks:** React, Node.js, Django
-- **Tools:** Git, Docker, Jenkins
+🎓 **Education:** M.Tech (2021)
 
-## 🌟 Projects
-- **[Portfolio Website](https://portfolio.example.com)** - A personal website to showcase my work.
-- **[Task Manager App](https://github.com/dilipkary/task-manager)** - A full-stack application for managing tasks.
+📍 **Location:** Indore, India
 
-## 🎓 Education
-- **Bachelor of Technology in Computer Science**  
-  ABC University (2015 - 2019)
+📧 **Contact Info:**
+- Email: [dilip-kumar15@outlook.com](mailto:dilip-kumar15@outlook.com)
+- Phone: +91 7974428285
 
-## 📜 Certifications
-- **Certified Kubernetes Administrator**  
-- **AWS Certified Solutions Architect**
+🔗 **Links:**
+- [LinkedIn](https://www.linkedin.com/in/dilipkumar)
+- [GitHub](https://github.com/dilipkary)
 
-## 📖 Publications
-- **[Understanding Microservices](https://example.com/publication)** - A paper on microservices architecture.
+## 🌟 Professional Summary
 
-## 🏆 Achievements
-- Winner of the XYZ Hackathon 2022
-- 3rd Place at the ABC Coding Challenge 2021
+With over 4 years of experience in software development, I specialize in **.NET Core, IAM, and microservices**. I am passionate about building scalable and secure applications.
 
-## 📫 Contact Information
-- **Email:** dilipkumar@example.com  
-- **LinkedIn:** [linkedin.com/in/dilipkumar](https://linkedin.com/in/dilipkumar)  
-- **GitHub:** [github.com/dilipkary](https://github.com/dilipkary)  
+## 🛠️ Top Skills
+
+### Backend
+- .NET 8
+- C#
+- ASP.NET Core
+- Entity Framework
+
+### Security
+- IdentityServer
+- OAuth2.0
+- JWT
+- PKCE
+
+### Cloud
+- AWS
+- Azure DevOps
+- Docker
+- CI/CD
+
+### Databases
+- SQL Server
+- PostgreSQL
+
+## 📜 Recent Certifications
+- GitHub Copilot
+- C# Classes/Properties
+- ASP.NET Core API
 
 ---
 
-Thank you for visiting my portfolio! Feel free to reach out if you want to connect or collaborate!
+Feel free to reach out for collaboration or opportunities!
