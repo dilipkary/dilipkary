@@ -1,8 +1,8 @@
-# 👨‍💻 Dilip Kary
+# 👨‍💻 Dilip KUmar
 
 ## Contact
-- 📧 Email: dilipkary@example.com  
-- 🌐 Website: www.dilipkary.com  
+- 📧 Email: dilip-kumar15@outlook.com  
+- 🌐 [Website: www.dilipkary.com](http://dilip-kumar-io.github.io/)  
 
 ## 🎓 Education
 - M.Tech, NIT Jalandhar (2021)
