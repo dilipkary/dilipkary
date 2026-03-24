@@ -1,52 +1,29 @@
-# Dilip Kumar's Portfolio
+# 👨‍💻 Dilip Kary
 
-🎉 **Current Role: Senior Software Developer** at [Programming.com](https://www.programming.com)  *(IAM & .NET 8, July 2025-Present)*
+## Contact
+- 📧 Email: dilipkary@example.com  
+- 🌐 Website: www.dilipkary.com  
 
-🎓 **Education:** NIT Jalandhar, M.Tech(CSE) (2021)
+## 🎓 Education
+- M.Tech, NIT Jalandhar (2021)
 
-📍 **Location:** Indore, India
+## 💼 Current Role
+- Software Developer at Programming.com
 
-📧 **Contact Info:**
-- Email: [dilip-kumar15@outlook.com](mailto:dilip-kumar15@outlook.com)
-- Phone: +91 7974428285
+## 🛠️ Skills
 
-🔗 **Links:**
-- [LinkedIn](https://www.linkedin.com/in/dilipkumar15)
-- [GitHub](https://github.com/dilipkary)
-- [Portfolio]([https://github.com/dilipkary](http://dilip-kumar-io.github.io)
-## 🌟 Professional Summary
+### Backend 
+![.NET 8](https://img.shields.io/badge/-.NET%208-5C2D91?style=for-the-badge&logo=.NET&logoColor=white) ![C#](https://img.shields.io/badge/C%23-7A4691?style=for-the-badge&logo=csharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=aspdotnet&logoColor=white)  
 
-With over 4 years of experience in software development, I specialize in **.NET Core, IAM, and microservices**. I am passionate about building scalable and secure applications.
+### Security 
+![IdentityServer](https://img.shields.io/badge/IdentityServer-3C87CC?style=for-the-badge&logo=identityserver&logoColor=white) ![OAuth2.0](https://img.shields.io/badge/OAuth2.0-6B4B78?style=for-the-badge&logo=oauth&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-FF0000?style=for-the-badge&logo=json-web-tokens&logoColor=white) ![PKCE](https://img.shields.io/badge/PKCE-2AA9E8?style=for-the-badge&logo=oauth&logoColor=white)  
 
-## 🛠️ Top Skills
+### Cloud 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-7395D8?style=for-the-badge&logo=gitlab&logoColor=white)  
 
-### Backend
-- .NET 8
-- C#
-- ASP.NET Core
-- Entity Framework
-
-### Security
-- IdentityServer
-- OAuth2.0
-- JWT
-- PKCE
-
-### Cloud
-- AWS
-- Azure DevOps
-- Docker
-- CI/CD
-
-### Databases
-- SQL Server
-- PostgreSQL
-
-## 📜 Recent Certifications
-- GitHub Copilot
-- C# Classes/Properties
-- ASP.NET Core API
+### Databases 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ---
 
-Feel free to reach out for collaboration or opportunities!
+*Last updated: 2026-03-24 22:29:48 UTC*
