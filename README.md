@@ -2,7 +2,7 @@
 
 🎉 **Current Role: Senior Software Developer** at [Programming.com](https://www.programming.com)  *(IAM & .NET 8, July 2025-Present)*
 
-🎓 **Education:** M.Tech (2021)
+🎓 **Education:** NIT Jalandhar, M.Tech(CSE) (2021)
 
 📍 **Location:** Indore, India
 
@@ -11,9 +11,9 @@
 - Phone: +91 7974428285
 
 🔗 **Links:**
-- [LinkedIn](https://www.linkedin.com/in/dilipkumar)
+- [LinkedIn](https://www.linkedin.com/in/dilipkumar15)
 - [GitHub](https://github.com/dilipkary)
-
+- [Portfolio]([https://github.com/dilipkary](http://dilip-kumar-io.github.io)
 ## 🌟 Professional Summary
 
 With over 4 years of experience in software development, I specialize in **.NET Core, IAM, and microservices**. I am passionate about building scalable and secure applications.
