@@ -1,8 +1,8 @@
-# 👨‍💻 Dilip KUmar
+# 👨‍💻 Dilip Kumar
 
 ## Contact
 - 📧 Email: dilip-kumar15@outlook.com  
-- 🌐 [Website: www.dilipkary.com](http://dilip-kumar-io.github.io/)  
+- 🌐 [portfolio](http://dilip-kumar-io.github.io/)  
 
 ## 🎓 Education
 - M.Tech, NIT Jalandhar (2021)
